@@ -1,56 +1,101 @@
-# Investment Research & Portfolio Analytics
+# 📊 Investment Research & Portfolio Analytics
 
-An independent portfolio of investment research projects covering equity and multi-asset investing, portfolio construction, asset allocation, performance attribution, risk management and investment strategy.
+**Equity Research | Multi-Asset Investing | Portfolio Construction | Risk Management**
 
-## About
+An independent portfolio of investment research projects combining quantitative analysis, portfolio construction and investment insights to explore financial markets, investment strategies and portfolio decision-making.
 
-I am an investment professional with experience in equity portfolio management at Dimensional Fund Advisors and institutional portfolio analytics at Bloomberg, including exposure to equity, fixed income and multi-asset investment strategies.
+---
 
-This repository showcases independent research combining quantitative investment analysis, portfolio construction techniques and investment communication, with a focus on translating analytical insights into actionable investment conclusions.
+## 👨🏻‍💼 About Me
 
-## Research Projects
+I am an investment professional with experience in equity portfolio management at **Dimensional Fund Advisors** and institutional portfolio analytics at **Bloomberg**, covering equity, fixed income and multi-asset investment strategies.
 
-### 1. Equity Performance & Risk Analysis
-Analysis of equity portfolio performance, benchmark-relative returns, risk-adjusted performance, tracking error, drawdowns and portfolio positioning.
+My interests lie at the intersection of **investment research, portfolio management and investment solutions**, with a particular focus on translating complex financial analysis into actionable investment insights.
 
-### 2. Multi-Asset Portfolio Construction & Asset Allocation
-Development and analysis of diversified portfolios across equities, fixed income and other asset classes, examining strategic asset allocation, portfolio optimisation, correlations and risk-return trade-offs.
+This GitHub portfolio showcases independent projects combining quantitative modelling, investment research and professional investment communication.
 
-### 3. Multi-Manager Investment Strategies
-Evaluation of manager diversification, investment styles, portfolio concentration, factor exposures and the benefits and limitations of combining complementary investment approaches.
+---
 
-### 4. Investment Manager Due Diligence
-Quantitative and qualitative assessment of investment strategies and managers, covering investment philosophy, performance consistency, risk management and portfolio suitability.
+## 🚀 Research Projects
 
-### 5. Equity & Multi-Asset Investment Commentary
-Research on financial markets, macroeconomic developments, asset class performance, investment positioning and implications for portfolio construction.
+### 📈 01 | Equity Performance & Risk Analysis
+*Portfolio Performance · Attribution · Risk Analytics*
 
-### 6. Portfolio Strategy & Investment Committee Research
-Investment proposals evaluating asset allocation changes, portfolio risks, market opportunities and potential enhancements to investment strategies.
+Analyse equity portfolio returns, benchmark-relative performance, tracking error, risk-adjusted returns, drawdowns and portfolio positioning.
 
-## Tools & Methodologies
+**Deliverables:** Python analysis, performance dashboard and investment report.
 
-- **Programming & Analytics:** Python (pandas, NumPy, Matplotlib), SQL, Excel
-- **Portfolio Analytics:** Performance attribution, risk-adjusted returns, tracking error, volatility, drawdown analysis
-- **Portfolio Construction:** Asset allocation, diversification analysis, portfolio optimisation, factor exposures
-- **Investment Research:** Equity and fixed income analysis, investment manager evaluation, macroeconomic research
-- **Investment Communication:** Investment reports, market commentaries, portfolio presentations and investment recommendations
+### 🌍 02 | Multi-Asset Portfolio Construction & Asset Allocation
+*Strategic Asset Allocation · Diversification · Optimisation*
 
-## Disclaimer
+Construct diversified portfolios across asset classes and evaluate asset allocation decisions, correlations, expected returns and risk-adjusted performance.
 
-These projects represent independent research conducted for educational and professional development purposes. They do not represent the views of any current or former employer and should not be considered investment advice. Only public, appropriately licensed or synthetic datasets are used.
+**Deliverables:** Portfolio optimisation model, asset allocation dashboard and investment recommendation.
 
-<!--
-**romanotancredi/romanotancredi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧩 03 | Multi-Manager Investment Strategies
+*Manager Diversification · Factor Exposures · Portfolio Construction*
 
-Here are some ideas to get you started:
+Evaluate how combining complementary investment managers and strategies affects diversification, concentration, factor exposures and portfolio risk.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Deliverables:** Manager comparison analysis, risk assessment and investment presentation.
+
+### 🔍 04 | Investment Manager Due Diligence
+*Manager Research · Performance Evaluation · Investment Process*
+
+Assess investment strategies and external managers using quantitative and qualitative research, including investment philosophy, performance consistency and risk management.
+
+**Deliverables:** Manager assessment scorecard and investment due diligence report.
+
+### 📰 05 | Equity & Multi-Asset Market Commentary
+*Market Research · Macroeconomics · Investment Outlook*
+
+Produce market commentaries examining macroeconomic trends, asset class performance, valuations and implications for portfolio positioning.
+
+**Deliverables:** Monthly market commentary, investment outlook and professional presentations.
+
+### 🏛️ 06 | Portfolio Strategy & Investment Committee Research
+*Investment Strategy · Portfolio Recommendations · Governance*
+
+Develop investment proposals assessing portfolio positioning, asset allocation changes, market opportunities and associated investment risks.
+
+**Deliverables:** Investment Committee memorandum, supporting quantitative analysis and investment recommendations.
+
+---
+
+## 🛠️ Tools & Methodologies
+
+| Area | Tools & Expertise |
+|---|---|
+| 💻 Programming | Python, pandas, NumPy, Matplotlib, SQL |
+| 📊 Portfolio Analytics | Performance attribution, tracking error, volatility, Sharpe ratio, drawdown analysis |
+| 🌍 Portfolio Construction | Asset allocation, portfolio optimisation, diversification, factor exposures |
+| 🔎 Investment Research | Equity analysis, fixed income analytics, manager evaluation, macroeconomic research |
+| 📝 Investment Communication | Investment reports, market commentary, portfolio presentations |
+
+---
+
+## 🎯 Research Objectives
+
+Through these projects, I aim to explore three fundamental investment questions:
+
+**1. How can portfolios be constructed to deliver attractive risk-adjusted returns?**
+
+**2. How do investment strategies, asset allocation decisions and manager selection affect portfolio outcomes?**
+
+**3. How can quantitative research be translated into clear, actionable investment recommendations?**
+
+---
+
+## 📬 Connect
+
+Interested in discussing investment research, portfolio construction or financial markets?
+
+Connect with me on **LinkedIn** through the link provided on my GitHub profile.
+
+---
+
+### ⚖️ Disclaimer
+
+All projects represent independent research undertaken for educational and professional development purposes. They do not represent the views of any current or former employer and should not be considered investment advice.
+
+Only publicly available, appropriately licensed or synthetic datasets are used.
